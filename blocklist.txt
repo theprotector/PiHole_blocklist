@@ -9,3 +9,4 @@ www.youtube.com
 s.youtube.com
 kids.youtube.com
 redirector.googlevideo.com
+youtube.com
