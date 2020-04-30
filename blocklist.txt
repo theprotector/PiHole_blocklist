@@ -1,0 +1,11 @@
+# Manual blocklist to be enableded at time in PiHole to block certain sites/apps.
+# First version 30 April 2020
+
+googlevideo.com
+roblox.com
+youtube.com
+m.youtube.com
+www.youtube.com
+s.youtube.com
+kids.youtube.com
+redirector.googlevideo.com
