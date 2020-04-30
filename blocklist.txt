@@ -6,7 +6,7 @@
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 www.youtube.com
-0.0.0.0 0.0.0.0 s.youtube.com
+0.0.0.0 s.youtube.com
 0.0.0.0 kids.youtube.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 youtube.com
