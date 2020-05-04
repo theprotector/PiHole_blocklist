@@ -24,6 +24,8 @@
 #Netflix
 --------
 127.0.0.1 www.netflix.com
+127.0.0.1 msg.netflix.com
+127.0.0.1 ichnaea-web.geo.netflix.com
 127.0.0.1 appboot.netflix.com
 127.0.0.1 ios.prod.ftl.netflix.com
 127.0.0.1 ichnaea-web.netflix.com
