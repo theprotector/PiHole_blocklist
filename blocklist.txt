@@ -3,16 +3,19 @@
 
 127.0.0.1 googlevideo.com
 127.0.0.1 roblox.com
-1.1.1.1 youtube.com
+127.0.0.1 youtube.com
 127.0.0.1 m.youtube.com
 127.0.0.1 www.youtube.com
 127.0.0.1 s.youtube.com
 127.0.0.1 kids.youtube.com
+127.0.0.1 kids.youtu.be
+127.0.0.1 youtubeei.googleapis.com
 127.0.0.1 redirector.googlevideo.com
 127.0.0.1 youtube.com
 127.0.0.1 www.netflix.com
 127.0.0.1 appboot.netflix.com
 127.0.0.1 ios.prod.ftl.netflix.com
 127.0.0.1 ichnaea-web.netflix.com
+127.0.0.1 appboot.netflix.com
 127.0.0.1 mobile-ixanycast.ftl.netflix.com
 127.0.0.1 mobile.prod.cloud.netflix.com
