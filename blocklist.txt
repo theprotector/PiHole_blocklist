@@ -10,3 +10,7 @@
 127.0.0.1 kids.youtube.com
 127.0.0.1 redirector.googlevideo.com
 127.0.0.1 youtube.com
+127.0.0.1 www.netflix.com
+127.0.0.1 appboot.netflix.com
+127.0.0.1 ios.prod.ftl.netflix.com
+127.0.0.1 ichnaea-web.netflix.com
