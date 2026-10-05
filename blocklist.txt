@@ -11,7 +11,7 @@
 #Youtube
 -------
 127.0.0.1 googlevideo.com
-127.0.0.1 youtube.com
+#127.0.0.1 youtube.com
 127.0.0.1 m.youtube.com
 127.0.0.1 www.youtube.com
 127.0.0.1 s.youtube.com
