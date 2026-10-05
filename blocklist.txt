@@ -23,15 +23,15 @@
 
 #Netflix
 --------
-127.0.0.1 www.netflix.com
-127.0.0.1 msg.netflix.com
-127.0.0.1 ichnaea-web.geo.netflix.com
-127.0.0.1 appboot.netflix.com
-127.0.0.1 ios.prod.ftl.netflix.com
-127.0.0.1 ichnaea-web.netflix.com
-127.0.0.1 appboot.netflix.com
-127.0.0.1 mobile-ixanycast.ftl.netflix.com
-127.0.0.1 mobile.prod.cloud.netflix.com
+#127.0.0.1 www.netflix.com
+#127.0.0.1 msg.netflix.com
+#127.0.0.1 ichnaea-web.geo.netflix.com
+#127.0.0.1 appboot.netflix.com
+#127.0.0.1 ios.prod.ftl.netflix.com
+#127.0.0.1 ichnaea-web.netflix.com
+#127.0.0.1 appboot.netflix.com
+#127.0.0.1 mobile-ixanycast.ftl.netflix.com
+#127.0.0.1 mobile.prod.cloud.netflix.com
 
 # 5 Oct 2026 review of NewScientist
 
@@ -43,19 +43,22 @@
 0.0.0.0 tpc.googlesyndication.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 dmg-libs.anm.co.uk
-127.0.0.1 ep2.adtrafficquality.google
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
 127.0.0.1 pcdn.newscientist.com
-127.0.0.1 securepubads.g.doubleclick.net
-0.0.0.0 googletagmanager.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 td.doubleclick.net
 
 
-0.0.0.0 fastly-edge.com
-0.0.0.0 fastly.net
-0.0.0.0 sailthru.com
+
+0.0.0.0 ha-link.sailthru.com
+0.0.0.0 media.sailthru.com
 
 0.0.0.0 doubleclick.net
 0.0.0.0 onesignal.com
+0.0.0.0 api.onesignal.com
 0.0.0.0 anm.co.uk
+0.0.0.0 idsync.anm.co.uk
 0.0.0.0 dmg-libs.anm.co.uk
 0.0.0.0 adtrafficquality.google
 0.0.0.0 www.googletagmanager.com
