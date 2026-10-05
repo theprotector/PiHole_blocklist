@@ -45,4 +45,9 @@
 127.0.0.1 ep2.adtrafficquality.google
 127.0.0.1 pcdn.newscientist.com
 127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 googletagmanager.com
+0.0.0.0 googletagmanager.com
+
+
+0.0.0.0 fastly-edge.com
+0.0.0.0 fastly.net
+0.0.0.0 sailthru.com
