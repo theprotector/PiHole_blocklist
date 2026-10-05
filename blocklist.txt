@@ -40,6 +40,7 @@
 127.0.0.1 rta1.newscientist.com
 127.0.0.1 rta3.newscientist.com
 127.0.0.1 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 dmg-libs.anm.co.uk
 127.0.0.1 ep2.adtrafficquality.google
@@ -51,3 +52,14 @@
 0.0.0.0 fastly-edge.com
 0.0.0.0 fastly.net
 0.0.0.0 sailthru.com
+
+0.0.0.0 doubleclick.net
+0.0.0.0 onesignal.com
+0.0.0.0 anm.co.uk
+0.0.0.0 dmg-libs.anm.co.uk
+0.0.0.0 adtrafficquality.google
+0.0.0.0 www.googletagmanager.com
+use.typekit.com
+cdn.cxense.com
+
+
