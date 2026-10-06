@@ -62,7 +62,11 @@
 0.0.0.0 dmg-libs.anm.co.uk
 0.0.0.0 adtrafficquality.google
 0.0.0.0 www.googletagmanager.com
-use.typekit.com
-cdn.cxense.com
+0.0.0.0 use.typekit.com
+0.0.0.0 cdn.cxense.com
+
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 i.ytimg.com
+
 
 
